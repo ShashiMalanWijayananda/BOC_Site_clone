@@ -2,8 +2,8 @@
  
 <br/>
 <p align="center">
-<img height="400" width="800" src="/images/Screenshot1.png">
-<img height="400" width="800" src="/images/Screenshot2.png">
+<img height="400" width="800" src="/images/Screenshot%201.png">
+
 </p>
 
 ## ⭐ Introduction
@@ -61,7 +61,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 <p align="justify">
 <img height="300" width="600" src="/images/Screenshot%201.png">
-<img height="300" width="600" src="/images/Screenshot2.png">
+
 
 </p>
 
