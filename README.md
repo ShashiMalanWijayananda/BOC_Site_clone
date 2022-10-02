@@ -60,7 +60,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 #### Desktop Version
 
 <p align="justify">
-<img height="300" width="600" src="/images/Screenshot%201.png">
+<img height="300" width="600" src="/images/Screenshot%201.png"><br/>
  <img height="300" width="600" src="/images/Screenshot2.png">
 
 
