@@ -2,7 +2,8 @@
  
 <br/>
 <p align="center">
-<img height="400" width="800" src="/images/Screenshot%201.png">
+<img height="400" width="800" src="/images/Screenshot1.png">
+<img height="400" width="800" src="/images/Screenshot2.png">
 </p>
 
 ## ⭐ Introduction
